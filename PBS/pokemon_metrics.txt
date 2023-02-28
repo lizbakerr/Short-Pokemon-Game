@@ -3048,6 +3048,12 @@ FrontSprite = 2,6
 ShadowX = 0
 ShadowSize = 3
 #-------------------------------
+[ARCEUS_DEAD]
+BackSprite = -4,0
+FrontSprite = 2,6
+ShadowX = 0
+ShadowSize = 3
+#-------------------------------
 [VICTINI]
 BackSprite = 0,0
 FrontSprite = -3,22

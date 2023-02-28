@@ -6288,6 +6288,16 @@ Target = User
 FunctionCode = HealUserHalfOfTotalHP
 Description = Restoring its own cells, the user restores its own HP by half of its max HP.
 #-------------------------------
+[RECOVER_DEAD]
+Name = Recover
+Type = NORMAL
+Category = Status
+Accuracy = 0
+TotalPP = 10
+Target = User
+FunctionCode = DoesNothingCuzArceusIsDead
+Description = Restoring its own cells, the user restores its own HP by half of its max HP.
+#-------------------------------
 [RECYCLE]
 Name = Recycle
 Type = NORMAL

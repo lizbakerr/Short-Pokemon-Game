@@ -30,6 +30,7 @@ BattleBack = field
 [006]   # Kurt's house
 Name = Route 1
 MapPosition = 0,13,11
+WildBattleBGM = Arceus-BGM.ogg
 #-------------------------------
 [007]   # Cedolan City
 Name = Cedolan City
